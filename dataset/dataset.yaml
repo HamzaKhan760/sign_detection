@@ -1,0 +1,6 @@
+path: C:\Users\22tlg3\source\repos\sign_detection\dataset
+train: images/train
+val: images/val
+
+nc: 4
+names: ['stop', 'yield', 'no_entry', 'one_way']

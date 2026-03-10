@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.claude",
+    "\\data",
+    "\\pretrained_model",
+    "\\scripts",
+    "\\training"
+  ],
+  "SelectedNode": "\\scripts\\export_yolo.py",
+  "PreviewInSolutionExplorer": false
+}
