@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source venv/Scripts/activate)",
+      "Bash(pip install \"numpy==1.24.3\" --force-reinstall)",
+      "Bash(pip install pyyaml==6.0.2 lxml contextlib2 Cython psutil py-cpuinfo gin-config immutabledict)"
+    ]
+  }
+}

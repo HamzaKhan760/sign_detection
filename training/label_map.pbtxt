@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'stop'
+}
+
+item {
+  id: 2
+  name: 'yield'
+}
+
+item {
+  id: 3
+  name: 'no_entry'
+}
+
+item {
+  id: 4
+  name: 'one_way'
+}
